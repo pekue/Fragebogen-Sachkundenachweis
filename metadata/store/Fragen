@@ -9,7 +9,7 @@
         "data": [
             "[{\"C\":1,\"Nr\":1,\"Q\":\"Welches Tier ist der Urahn des heutigen Hundes?\",\"A\":\"\"},",
             "{\"C\":1,\"Nr\":1,\"Q\":\"\",\"A\":\"A.  Der Goldschakal.\"},",
-            "{\"C\":1,\"Nr\":1,\"Q\":\"\",\"A\":\"B.  Der Wolf.\"},",
+            " {\"C\":1,\"Nr\":1,\"Q\":\"\",\"A\":\"B.  Der Wolf.\", correct: true},",
             "{\"C\":1,\"Nr\":1,\"Q\":\"\",\"A\":\"C.  Der Kojote.\"},",
             "{\"C\":1,\"Nr\":1,\"Q\":\"\",\"A\":\"D.  Der Dingo.\"},",
             "{\"C\":1,\"Nr\":14,\"Q\":\"Bis zu welchem Alter bezeichnet man Hunde als „Welpen”?\",\"A\":\"\"},",

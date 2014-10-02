@@ -40,7 +40,8 @@ Ext.define('HSK.store.Fragen', {
                 C: 1,
                 Nr: 1,
                 Q: '',
-                A: 'B.  Der Wolf.'
+                A: 'B.  Der Wolf.',
+                correct: true
             },
             {
                 C: 1,

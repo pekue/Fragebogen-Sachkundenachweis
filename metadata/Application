@@ -8,12 +8,14 @@
     "userConfig": {
         "models": [
             "Frage",
-            "Navigation"
+            "Navigation",
+            "Korrekt"
         ],
         "name": "HSK",
         "stores": [
             "Fragen",
-            "Navigation"
+            "Navigation",
+            "Korrekt"
         ],
         "views": [
             "Main",
