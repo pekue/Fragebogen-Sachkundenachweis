@@ -1,0 +1,27 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Navigation"
+    },
+    "designerId": "777b903a-c349-488b-896e-cfe9fe0b5c62",
+    "cn": [
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "text",
+                "type": "string"
+            },
+            "designerId": "17ffea3c-7035-4290-b207-5efc0fd8bf10"
+        }
+    ]
+}

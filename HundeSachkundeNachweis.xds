@@ -1,0 +1,56 @@
+{
+    "name": "HundeSachkundeNachweis",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.4.84",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.4",
+    "xdsBuild": 1386,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "d5802d51-5c1e-42b2-92b8-5dde4ec9f53d",
+            "c37b8510-2c51-4b4c-aead-26c53870cbac"
+        ],
+        "store": [
+            "8e71a0e6-52e3-4c69-b459-0d3674754f47",
+            "e01d998f-788f-400b-adb5-e4866209c617"
+        ],
+        "controller": [],
+        "model": [
+            "4e14e6af-db04-4276-a45b-6be5abe8a7b7",
+            "777b903a-c349-488b-896e-cfe9fe0b5c62"
+        ],
+        "resource": [
+            "fe9d274c-f3aa-4c0c-ae79-acb039e69755",
+            "dc164082-3358-4153-8503-afbe3c86bada",
+            "825839fc-6382-48dc-a8bf-942086f6fe00"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

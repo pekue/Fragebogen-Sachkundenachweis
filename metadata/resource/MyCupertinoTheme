@@ -1,0 +1,18 @@
+{
+    "type": "cupertino2themeresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyCupertinoTheme"
+    },
+    "designerId": "825839fc-6382-48dc-a8bf-942086f6fe00",
+    "storage": {
+        "needsCompile": false,
+        "simple": {},
+        "nameIndex": 1,
+        "varData": {}
+    }
+}

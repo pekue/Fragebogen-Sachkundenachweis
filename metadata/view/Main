@@ -1,0 +1,72 @@
+{
+    "type": "Ext.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "Main",
+        "layout": "fit"
+    },
+    "designerId": "d5802d51-5c1e-42b2-92b8-5dde4ec9f53d",
+    "cn": [
+        {
+            "type": "Ext.dataview.NestedList",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "backText": "Start",
+                "detailCard": "Details",
+                "onItemDisclosure": [
+                    "true"
+                ],
+                "store": "Navigation",
+                "title": ""
+            },
+            "designerId": "35cf2e79-60c9-4b1b-a8e2-dff66e544635",
+            "cn": [
+                {
+                    "type": "Ext.Toolbar",
+                    "reference": {
+                        "name": "toolbar",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "f7ca6619-51cf-4e33-832d-a477aafc6d67",
+                    "cn": [
+                        {
+                            "type": "Ext.Spacer",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "designerId": "aac64486-0847-408e-9275-ff28bd790759"
+                        },
+                        {
+                            "type": "Ext.Button",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|uiInterfaceName": "forward",
+                                "docked": null,
+                                "hidden": true,
+                                "text": "weiter",
+                                "ui": "forward"
+                            },
+                            "designerId": "2f80c77c-31cd-4628-beac-62551d530231"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

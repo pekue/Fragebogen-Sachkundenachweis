@@ -1,0 +1,65 @@
+{
+    "type": "Ext.form.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Details"
+    },
+    "designerId": "c37b8510-2c51-4b4c-aead-26c53870cbac",
+    "cn": [
+        {
+            "type": "Ext.Toolbar",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "bottom"
+            },
+            "designerId": "1e667bfa-ea63-4bad-aaf9-e02cc491c47a",
+            "cn": [
+                {
+                    "type": "Ext.Button",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "text": "OK"
+                    },
+                    "designerId": "be82749a-bb94-40fe-9e07-027933a73c27"
+                }
+            ]
+        },
+        {
+            "type": "Ext.Container",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "itemId": "question"
+            },
+            "designerId": "3f31c816-c931-4ead-a45e-1ea52fc90d4c"
+        },
+        {
+            "type": "Ext.form.FieldSet",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "itemId": "answers",
+                "title": ""
+            },
+            "designerId": "edcb0fdb-4598-4545-b5d4-cc64c1f11dbc"
+        }
+    ]
+}

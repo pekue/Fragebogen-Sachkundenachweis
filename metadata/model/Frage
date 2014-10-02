@@ -1,0 +1,64 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Frage"
+    },
+    "designerId": "4e14e6af-db04-4276-a45b-6be5abe8a7b7",
+    "cn": [
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "C",
+                "type": "int"
+            },
+            "designerId": "8d65457d-d580-40ae-aa6d-cb8384f99294"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "Nr",
+                "type": "int"
+            },
+            "designerId": "5b867768-e09c-438e-8697-e20ba2784174"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "Q"
+            },
+            "designerId": "2c03bbfa-cf18-487a-b458-c19088b0d983"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "A"
+            },
+            "designerId": "e9f8a5cc-e84d-4a67-acf1-2d0fbe618662"
+        }
+    ]
+}

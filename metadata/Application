@@ -1,0 +1,24 @@
+{
+    "type": "Ext.app.Application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "models": [
+            "Frage",
+            "Navigation"
+        ],
+        "name": "HSK",
+        "stores": [
+            "Fragen",
+            "Navigation"
+        ],
+        "views": [
+            "Main",
+            "Details"
+        ]
+    },
+    "designerId": "application"
+}
