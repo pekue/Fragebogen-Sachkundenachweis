@@ -6,7 +6,8 @@
     },
     "codeClass": null,
     "userConfig": {
-        "designer|userClassName": "Details"
+        "designer|userClassName": "Details",
+        "layout": "vbox"
     },
     "designerId": "c37b8510-2c51-4b4c-aead-26c53870cbac",
     "cn": [
@@ -44,7 +45,10 @@
             },
             "codeClass": null,
             "userConfig": {
-                "itemId": "question"
+                "id": "question-panel",
+                "itemId": "",
+                "layout|flex": null,
+                "padding": "10 10 10 16"
             },
             "designerId": "3f31c816-c931-4ead-a45e-1ea52fc90d4c"
         },
@@ -56,7 +60,9 @@
             },
             "codeClass": null,
             "userConfig": {
-                "itemId": "answers",
+                "id": "answers-panel",
+                "itemId": null,
+                "layout|flex": 1,
                 "title": ""
             },
             "designerId": "edcb0fdb-4598-4545-b5d4-cc64c1f11dbc"

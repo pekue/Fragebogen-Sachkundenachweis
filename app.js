@@ -34,6 +34,9 @@ Ext.application({
         'Main',
         'Details'
     ],
+    controllers: [
+        'QnA'
+    ],
     name: 'HSK',
 
     launch: function() {

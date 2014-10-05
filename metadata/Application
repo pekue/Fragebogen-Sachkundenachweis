@@ -6,6 +6,9 @@
     },
     "codeClass": null,
     "userConfig": {
+        "controllers": [
+            "QnA"
+        ],
         "models": [
             "Frage",
             "Navigation",

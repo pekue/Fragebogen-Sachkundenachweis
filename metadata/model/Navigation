@@ -22,6 +22,31 @@
                 "type": "string"
             },
             "designerId": "17ffea3c-7035-4290-b207-5efc0fd8bf10"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "type"
+            },
+            "designerId": "2be99c44-6d83-4e95-97b0-fd145613d6cc"
+        },
+        {
+            "type": "Ext.data.Field",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "nr",
+                "type": "int"
+            },
+            "designerId": "ec7d7102-1833-4285-8343-c5728926ec6b"
         }
     ]
 }

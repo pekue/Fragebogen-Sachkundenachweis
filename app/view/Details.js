@@ -23,6 +23,7 @@ Ext.define('HSK.view.Details', {
     ],
 
     config: {
+        layout: 'vbox',
         items: [
             {
                 xtype: 'toolbar',
@@ -36,11 +37,14 @@ Ext.define('HSK.view.Details', {
             },
             {
                 xtype: 'container',
-                itemId: 'question'
+                id: 'question-panel',
+                itemId: '',
+                padding: '10 10 10 16'
             },
             {
                 xtype: 'fieldset',
-                itemId: 'answers',
+                flex: 1,
+                id: 'answers-panel',
                 title: ''
             }
         ]

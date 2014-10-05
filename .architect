@@ -28,10 +28,10 @@
         },
         "c37b8510-2c51-4b4c-aead-26c53870cbac": {
             "id": "c37b8510-2c51-4b4c-aead-26c53870cbac",
-            "expanded": false,
             "cn": [
                 {
                     "id": "1e667bfa-ea63-4bad-aaf9-e02cc491c47a",
+                    "expanded": false,
                     "cn": [
                         {
                             "id": "be82749a-bb94-40fe-9e07-027933a73c27"
@@ -106,15 +106,21 @@
         },
         "777b903a-c349-488b-896e-cfe9fe0b5c62": {
             "id": "777b903a-c349-488b-896e-cfe9fe0b5c62",
-            "expanded": false,
             "cn": [
                 {
                     "id": "17ffea3c-7035-4290-b207-5efc0fd8bf10"
+                },
+                {
+                    "id": "2be99c44-6d83-4e95-97b0-fd145613d6cc"
+                },
+                {
+                    "id": "ec7d7102-1833-4285-8343-c5728926ec6b"
                 }
             ]
         },
         "0bf85d90-c492-4207-8c39-17ac7e14b353": {
             "id": "0bf85d90-c492-4207-8c39-17ac7e14b353",
+            "expanded": false,
             "cn": [
                 {
                     "id": "2547cacf-7496-48fd-ba38-5e280b4c7f00"
@@ -153,18 +159,19 @@
             "777b903a-c349-488b-896e-cfe9fe0b5c62",
             "c37b8510-2c51-4b4c-aead-26c53870cbac",
             "c53cc983-ad22-44a0-9ece-dcf4d90dfd91",
-            "0bf85d90-c492-4207-8c39-17ac7e14b353"
+            "0bf85d90-c492-4207-8c39-17ac7e14b353",
+            "application"
         ]
     },
     "canvasState": {
         "topInstance": null
     },
     "inspectorState": {
-        "topInstance": "c53cc983-ad22-44a0-9ece-dcf4d90dfd91",
-        "selectedInstance": "c53cc983-ad22-44a0-9ece-dcf4d90dfd91"
+        "topInstance": "c37b8510-2c51-4b4c-aead-26c53870cbac",
+        "selectedInstance": "edcb0fdb-4598-4545-b5d4-cc64c1f11dbc"
     },
     "codeState": {
-        "topInstance": "c53cc983-ad22-44a0-9ece-dcf4d90dfd91"
+        "topInstance": "c37b8510-2c51-4b4c-aead-26c53870cbac"
     },
     "editMode": "code",
     "userSettings": {

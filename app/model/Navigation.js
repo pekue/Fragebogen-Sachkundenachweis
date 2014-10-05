@@ -25,6 +25,13 @@ Ext.define('HSK.model.Navigation', {
             {
                 name: 'text',
                 type: 'string'
+            },
+            {
+                name: 'type'
+            },
+            {
+                name: 'nr',
+                type: 'int'
             }
         ]
     }
